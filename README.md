@@ -5,7 +5,7 @@ In 1986 I won a prize for a painting that I submitted to the John Moores exhibit
 
 I arranged with the John Moores exhibition to give a talk to a group of school children about the ideas behind my painting. i took a few props with me: 
 
-- my copy of a wooden toy Kalashnikov that I had seen in an issue of the National Geographic
+- my copy of a toy Kalashnikov that I had seen in an issue of the National Geographic
 - an inflatable beach ball that looked like a globe
 - a cap made out of my childhood bedroom curtains
 - a copy of _Candide_ by Voltaire
