@@ -7,7 +7,7 @@ I arranged with the John Moores exhibition to give a talk to a group of school c
 
 - a copy of a toy Kalashnikov that I had seen in an issue of the National Geographic
 - an inflatable beach ball that looked like a globe
-- a cap made out of my childhood bedroom curtains
+- a cap made out of my childhood bedroom curtain
 - a copy of _Candide_ by Voltaire
 - a drawing I made of a print in the Museum of Lisbon depicting the earthquake of 1755
 - a book on Cubism 
