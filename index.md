@@ -11,11 +11,11 @@ GETTING THE POINT ACROSS. |
 ### The Wooden Gun Brigade
 
 What is this?\
-(Hold up wooden-gun.)\
+_(Hold up wooden-gun.)_\
 What is this?\
-(Hold up wooden bullet.)\
+_(Hold up wooden bullet.)_\
 And what is this?\
-(Touch pointed end of bullet.)
+_(Touch pointed end of bullet.)_
 
 When you fire a gun and hit someone with a bullet you get your point across.\
 What's the point of a bullet?\
@@ -42,8 +42,8 @@ Now I'm going to show you how to be in two places at the same time.\
 This is a map.\
 A map of the surface that we all live on.\
 This is Liverpool.\
-We are here. (Point to globe.)\
-And we are here. (Point to group.)
+We are here. _(Point to globe.)_\
+And we are here. _(Point to group.)_
 
 Do you understand?
 
@@ -56,8 +56,8 @@ Does anyone see anything in this room that looks like an earthquake?
 
 Art is a kind of map.\
 A way of being in more than one place at the same time.\
-I’m here. (Point to self.)\
-And I’m here. (Point to painting.)
+I’m here. _(Point to self.)_\
+And I’m here. _(Point to painting.)_
 
 If we look at this beach ball we get a rough idea of what the world looks like to me.\
 My world.
@@ -133,8 +133,8 @@ It means that you remember things even though you may not be aware that you reme
 They influence how look at everything.
 
 Some years ago I was in a museum in Lisbon, Portugal.\
-Here. (Point to globe.)\
-While I was wandering around I remembered that I had read in book of my father’s (produce book) a poem written in 1755 by a French philosopher called Voltaire.\
+Here. _(Point to globe.)_\
+While I was wandering around I remembered that I had read in book of my father’s _(produce book)_ a poem written in 1755 by a French philosopher called Voltaire.\
 It was about earthquake that had happened in Lisbon that year.\
 The museum was full of pictures of Lisbon, so I looked for the room with the pictures of the earthquake.
 
@@ -146,10 +146,10 @@ Shaking much that all the buildings were falling down.
 In other words they had to use their imagination.\
 The most interesting pictures it seemed me were ones where all the buildings were jumbled up.
 
-I made a drawing (produce drawing) of one of them and used it to make the painting.
+I made a drawing _(produce drawing)_ of one of them and used it to make the painting.
 
-About seventy years ago a Spanish artist called Picasso invented a way of making pictures which got called Cubism. (Show Cubism book & photo of
-Picasso.)\
+About seventy years ago a Spanish artist called Picasso invented a way of making pictures which got called Cubism. _(Show Cubism book & photo of
+Picasso.)_\
 He made pictures more interesting by jumbling them up.
 
 How do you think that is connected with earthquakes?
@@ -169,7 +169,7 @@ It moves.
 
 That’s when earthquakes happen.
 
-I grew up in Belfast. (Show on globe.)\
+I grew up in Belfast. _(Show on globe.)_\
 There was a lot of tension.\
 There still is.
 
