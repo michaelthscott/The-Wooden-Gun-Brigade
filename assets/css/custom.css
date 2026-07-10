@@ -1,6 +1,7 @@
-table, th, td {
+table th, table td {
   border: none;
 }
+
 tr:nth-child(even),
 tr:nth-child(odd) {
   background-color: transparent;
