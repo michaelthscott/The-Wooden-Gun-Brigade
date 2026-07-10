@@ -1,3 +1,7 @@
+table {
+  border: 1px solid #3f3f3f;
+}
+
 table th, table td {
   border: none;
 }
