@@ -2,13 +2,13 @@
 
 |---|---|---|
 | | THE WOODEN GUN BRIGADE | |
-| A WOODEN GUN<br>IS NO GOOD<br>FOR ANYTHING<br>OTHER THAN<br>POINTING<br><br>IT IS A SCULPTURE.<br>A WORK OF ART.<br><br>REMEMBER THAT. | IMAGE | |
+| A WOODEN GUN<br>IS NO GOOD<br>FOR ANYTHING<br>OTHER THAN<br>POINTING<br><br>IT IS A SCULPTURE.<br>A WORK OF ART.<br><br>REMEMBER THAT. | ![Boy with wooden gun](assets/images/The-Wooden-Gun-Brigade.jpg) | |
 | | ART IS GOOD FOR POINTING.<br><br>POINTING<br>IS THE BASIS<br>OF COMMUNICATION.<br><br>
 GETTING THE POINT ACROSS. |
 | | | THE BETTER YOU CAN COMMUNICATE<br>THE HAPPIER YOU WILL BE.<br>ART IS IMPORTANT.<br>LEARN TO MAKE YOUR POINT IMPORTANT. |
 | LEARN TO MAKE ART.<br>LEARN TO DEFEND ART BY MAKING ART. | | |
 
-### The Wooden-Gun Brigade
+### The Wooden Gun Brigade
 
 What is this?\
 (Hold up wooden-gun.)\
